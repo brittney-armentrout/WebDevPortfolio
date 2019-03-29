@@ -1,6 +1,6 @@
 # Updated - Portfolio
 
-I invite you to visit my Portfolio here: https://brittney-armentrout.github.io/portfolio/index.html
+I invite you to visit my Portfolio here: https://brittney-armentrout.github.io/WebDevPortfolio/index.html
 
 Feel free to contact me: 
 Phone: 303.888.9458
